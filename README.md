@@ -22,13 +22,13 @@ Cookie's vision pipeline is managed in vision.java. The LimeLight 3A tracks flow
 # Autonomous Routines
 To effectively navigate across the field, Cookie uses PedroPathing 3.0 for accurate trajectory calcuation.
 
-Routine 1: Scores preload pollen, intakes an extra set of 4 nectar, shoots in the other flower, and parks.
-Routine 2: Navigates around center field obstacles to score preload pollen and park.
+Routine 1: Scores preload pollen, intakes an extra set of 4 nectar, shoots in the other flower, and parks. <br>
+Routine 2: Navigates around center field obstacles to score preload pollen and park. 
 
 # Photos
 You can put any photos of your robot CAD, real-life photos, or code here. Please add a description under each image, so people know what they're looking at.
 
 # Team Info
-FTC Team: #67676 - Sigma Robots
-Season: 2026–2027 BioBuzz
+FTC Team: #67676 - Sigma Robots <br>
+Season: 2026–2027 BioBuzz <br>
 License: MIT License (I just have this here, it's not too important for a small repository)
