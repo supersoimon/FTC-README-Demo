@@ -1,5 +1,5 @@
 # README.md Demo
-This is a demo README.md for RSR Robotics, with a demo robot "Cookie". In your actual README.md.
+This is a demo README.md for RSR Robotics, with a demo robot "Cookie".
 
 # Robot Overview
 Cookie is a robot designed by FTC Team #67676 for the 2026-2027 FTC season BioBuzz. Cookie features a double-sided motor-driven intake, a 4-nectar wide catapult, a mecanum drivetrain, a LimeLight 3A for vision, and four color sensors to detect nectar. The CAD is available at <put link here>
