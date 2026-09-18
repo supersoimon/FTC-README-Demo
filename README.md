@@ -1,5 +1,5 @@
 # README.md Demo
-This is a demo README.md for RSR Robotics, with a demo robot "Cookie"
+This is a demo README.md for RSR Robotics, with a demo robot "Cookie". In your actual README.md.
 
 # Robot Overview
 Cookie is a robot designed by FTC Team #67676 for the 2026-2027 FTC season BioBuzz. Cookie features a double-sided motor-driven intake, a 4-nectar wide catapult, a mecanum drivetrain, a LimeLight 3A for vision, and four color sensors to detect nectar. The CAD is available at <put link here>
@@ -24,3 +24,11 @@ To effectively navigate across the field, Cookie uses PedroPathing 3.0 for accur
 
 Routine 1: Scores preload pollen, intakes an extra set of 4 nectar, shoots in the other flower, and parks.
 Routine 2: Navigates around center field obstacles to score preload pollen and park.
+
+# Photos
+You can put any photos of your robot CAD, real-life photos, or code here. Please add a description under each image, so people know what they're looking at.
+
+# Team Info
+FTC Team: #67676 - Sigma Robots
+Season: 2026–2027 BioBuzz
+License: MIT License (I just have this here, it's not too important for a small repository)
